@@ -1,0 +1,10 @@
+@import "variables.scss";
+
+.navbar {
+  a {
+    font-size: $primary-font-size + 10;
+  }
+}
+.error {
+  color: blue;
+}
